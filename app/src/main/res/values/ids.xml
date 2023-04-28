@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="chkPython" type="id">chkPython</item>
+    <item name="chkAndroid" type="id">chkAndroid</item>
+</resources>
